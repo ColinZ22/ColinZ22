@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColinZ22
-- 👀 I’m interested in Computer Science and Robotics :D
-- 🌱 I’m not an expert, still learning! (long way to go)
+- 👀 I’m interested in Computer Engineering, Software and Firmware Engineering, and Robotics :D
+- 🌱 I’m not an expert, still learning!
 
 
 <!---
